@@ -17,7 +17,7 @@ Ensure the security of employee data with integrated user authentication. Only a
 
  # Technologies Used
 
-  # Frontend Technologies : HMTL, CSS, BOOTSTRAP
+  # Frontend Technologies  : HMTL, CSS, BOOTSTRAP
 
   # Backend Technologies  : Python, DJango
 
