@@ -15,13 +15,13 @@ Efficiently retrieve specific employee information using the search and filter f
 4. User Authentication
 Ensure the security of employee data with integrated user authentication. Only authorized personnel with the appropriate credentials can access and modify sensitive information, adding an extra layer of protection to the system.
 
- # Technologies Used
+ **Technologies Used**
 
-  # Frontend Technologies  : HMTL, CSS, BOOTSTRAP
+   **Frontend Technologies** : HMTL, CSS, BOOTSTRAP
 
-  # Backend Technologies  : Python, DJango
+   **Backend Technologies**   : Python, DJango
 
-  # Database             : MYSQL
+   **Database**             : MYSQL
 
-  #  IDE's                 : Visual studio code 
+   **IDE's**                  : Visual studio code 
 
